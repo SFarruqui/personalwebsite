@@ -206,7 +206,8 @@ export default class DataService {
                     { url: 'https://wbznewsradio.iheart.com/content/milton-academy-students-create-stocksense-app-for-youth-financial-literacy', text: 'WBZ News Radio 1030' },
                     { url: 'https://kiss108.iheart.com/content/milton-academy-students-create-stocksense-app-for-youth-financial-literacy/', text: 'Kiss 108' },
                     { url: 'https://www.milton.edu/financial-literacy/', text: 'Milton Academy' },
-                    { url: 'https://thestocksense.org/wp-content/uploads/2024/02/MiltonTimes_20240208-1-1.pdf', text: 'Milton Times' }
+                    { url: 'https://thestocksense.org/wp-content/uploads/2024/02/MiltonTimes_20240208-1-1.pdf', text: 'Milton Times' },
+                    { url: 'https://themiltonpaper.com/opinion/2024/9/29/milton-should-have-a-financial-literacy-course', text: 'Milton Paper' }
                 ]
               },
               
