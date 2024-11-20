@@ -14,7 +14,7 @@ export default class DataService {
             'Growing up as a Bengali-American, I was fascinated by the "Made in Bangladesh" clothing labels while shopping and the post-1972 government formation of Bangladesh, from its Constitution to its U.S. diplomatic ties, sparking my early interests in economics, political science, and social studies.',
             'From my ancestral home to my school, daily experiences enriched by my involvement in humanitarian aid, public forum debate, and educational reform have fueled my ambition to meld these academic interests, crafting data-driven policies that tackle socio-economic issues head-on.',
             "In the future, I hope to lead sustainable development initiatives, ensuring that every country's unique strengths are recognized and  nurtured through appropriate reforms or stimuli to unlock their full potential.",
-            'Apart from my academic pursuits, I enjoy playing the alto saxophone, chess, and tennis; building LEGO sets; watching NBA, NFL, and MLB games; and travelling around the world to experience new cultures and traditions.',
+            'Apart from my academic pursuits, I enjoy playing the alto saxophone, chess, and tennis; watching NBA, NFL, and MLB games; and travelling around the world to experience new cultures and traditions.',
           ],
         },
       },
