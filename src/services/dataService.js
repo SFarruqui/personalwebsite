@@ -14,7 +14,7 @@ export default class DataService {
             'Growing up as a Bengali-American, I was fascinated by the "Made in Bangladesh" clothing labels while shopping and the post-1972 government formation of Bangladesh, from its Constitution to its U.S. diplomatic ties, sparking my early interests in economics, political science, and social studies.',
             'From my ancestral home to my school, daily experiences enriched by my involvement in humanitarian aid, public forum debate, and educational reform have fueled my ambition to meld these academic interests, crafting data-driven policies that tackle socio-economic issues head-on.',
             "In the future, I hope to lead sustainable development initiatives, ensuring that every country's unique strengths are recognized and  nurtured through appropriate reforms or stimuli to unlock their full potential.",
-            'Apart from my academic pursuits, I enjoy playing the alto saxophone, chess, and tennis; watching NBA, NFL, and MLB games; and travelling around the world to experience new cultures and traditions.',
+            'Outside of academics, I enjoy playing the alto saxophone, chess, and tennis; learning new languages; and traveling to explore diverse cultures and traditions.',
           ],
         },
       },
@@ -210,7 +210,14 @@ export default class DataService {
                     { url: 'https://themiltonpaper.com/opinion/2024/9/29/milton-should-have-a-financial-literacy-course', text: 'Milton Paper' }
                 ]
               },
-              
+              {
+                title: 'Boys Nation',
+                links: [
+                  { url: 'https://www.milton.edu/milton-senior-elected-boys-nation-senator/', text: 'Milton Academy' },
+                  { url: 'https://en.wikipedia.org/wiki/Boys_Nation', text: 'Wikipedia' },
+                  { url: 'https://register.legion.org/sites/legion.org/modules/custom/boysnation/bn_registration/bn_docs/2024/legislative/2024_ma_res_farruqui_simon_1609.pdf', text: 'American Legion' },
+              ]
+            },
           ],
         },
       },

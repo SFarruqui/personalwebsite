@@ -21,7 +21,7 @@ function About({ content }) {
       <ImageContainer>
         <CircleImage 
           alt="Simon Farruqui" 
-          src={require('/Users/simonfarruqui/Desktop/Computer Science/simonfarruqui.com-master/src/assets/sf1.png')} 
+          src={require('/Users/simonfarruqui/Desktop/Computer Science/simonfarruqui.com-master/src/assets/sf3.png')} 
         />
       </ImageContainer>
       <h2>About Me</h2>
