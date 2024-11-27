@@ -30,7 +30,7 @@ export default class DataService {
               location: 'Hamburg',
               period: 'MAR 2023 — PRESENT',
               accomplishments: [
-                'Initiated the first youth-led disaster preparedness nonprofit in South Asia, delivering necessities—including 50 buoys and 300 life vests to fishermen—garnering coverage on national television channel Bangla TV.',
+                'Founded a youth-led nonprofit supporting South Asia’s disaster-vulnerable communities, improving schools, aiding hundreds of fishermen, advancing sustainable development through extensive policy briefs, and featured on Bangla TV for impact initiatives.',
               ],
               resumeLink: 'https://walivest.org/'
             },
