@@ -25,7 +25,7 @@ export default class DataService {
         content: {
           workExperience: [
             {
-              jobTitle: 'Founder and Chief Executive Officer',
+              jobTitle: 'Founder and Executive Director',
               company: 'Walivest',
               location: 'Hamburg',
               period: 'MAR 2023 - PRESENT',
