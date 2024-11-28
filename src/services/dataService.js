@@ -28,7 +28,7 @@ export default class DataService {
               jobTitle: 'Founder and Chief Executive Officer',
               company: 'Walivest',
               location: 'Hamburg',
-              period: 'MAR 2023 — PRESENT',
+              period: 'MAR 2023 - PRESENT',
               accomplishments: [
                 'Founded a youth-led nonprofit supporting South Asia’s disaster-vulnerable communities, improving schools, aiding hundreds of fishermen, advancing sustainable development through extensive policy briefs, and featured on Bangla TV for impact initiatives.',
               ],
@@ -90,13 +90,13 @@ export default class DataService {
               name: 'Boys Nation U.S. Senator',
               institution: 'Massachusetts American Legion Boys State',
               year: 'Jun 2024',
-              resumeLink: 'https://en.wikipedia.org/wiki/Boys_Nation'
+              
             },
             {
               name: 'First Class Distinction',
               institution: 'National Council of Teachers of English Achievement Awards in Writing',
               year: 'May 2024',
-              resumeLink: 'https://ncte.org/wp-content/uploads/AAW_First-Class_Massachusetts.pdf'
+              
             },
             {
               name: '1st Place Massachusetts Team',
@@ -112,7 +112,7 @@ export default class DataService {
               name: '2nd Place Award',
               institution: 'Massachusetts Science & Engineering Fair',
               year: 'Apr 2024',
-              resumeLink: 'https://scifair.com/wp-content/uploads/2024/04/2024-MSEF-High-School-Award-Winners-1.pdf'
+              
             },
             {
               name: 'Benjamin Franklin Transatlantic Fellowship',
@@ -123,7 +123,7 @@ export default class DataService {
               name: 'Top 100 from 9800 Business Pitches',
               institution: 'Blue Ocean Student Entrepreneur Pitch Competition',
               year: 'Mar 2024',
-              resumeLink: 'https://youtu.be/vdAgCi1jf_o?si=_I0dCuTUe4i4ZPwh'
+              
             },
             {
               name: 'National Security Language Initiative for Youth scholarship',
@@ -234,6 +234,14 @@ export default class DataService {
             {
               name: 'FaLinkedin',
               link: 'https://www.linkedin.com/in/simonfarruqui/',
+            },
+            {
+              name: 'FaTwitter',
+              link: 'https://x.com/SimonFarruqui',
+            },
+            {
+              name: 'FaInstagram',
+              link: 'https://www.instagram.com/simonfarruqui/',
             },
           ],
         },

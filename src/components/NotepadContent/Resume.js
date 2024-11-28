@@ -43,7 +43,7 @@ function Resume({ content }) {
         </div>
       ))}
       <hr />
-      <h2>Salient Honors</h2>
+      <h2>Honors</h2>
       {honors.map((hon, idx) => (
         <div key={idx}>
           <p>
